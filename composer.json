@@ -1,12 +1,12 @@
 {
-    "name": "dvizh/yii2-field",
+    "name": "necrox87/yii2-field",
     "description": "yii2-field add fields to your model",
     "keywords": ["yii2", "yii2", "application", "fields", "module", "dvizh"],
     "homepage": "https://github.com/dvizh/yii2-field",
     "type": "yii2-extension",
     "license": "Apache-2.0",
     "support": {
-        "source": "https://github.com/dvizh/yii2-field"
+        "source": "https://github.com/necrox87/yii2-field"
     },
     "authors": [
         {
@@ -34,10 +34,10 @@
     },
     "autoload": {
         "psr-4": {
-            "dvizh\\field\\": "src\\"
+            "necrox87\\field\\": "src\\"
         }
     },
     "extra": {
-        "bootstrap": "dvizh\\field\\Bootstrap"
+        "bootstrap": "necrox87\\field\\Bootstrap"
     }
 }
