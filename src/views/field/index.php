@@ -2,7 +2,7 @@
 use yii\helpers\ArrayHelper;
 use yii\helpers\Html;
 use yii\grid\GridView;
-use dvizh\field\models\Category;
+use necrox87\field\models\Category;
 
 $this->title = 'Поля';
 $this->params['breadcrumbs'][] = ['label' => 'Поля', 'url' => ['/field/default/index']];
