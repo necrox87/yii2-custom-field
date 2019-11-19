@@ -1,6 +1,6 @@
 {
-    "name": "necrox87/yii2-field",
-    "description": "yii2-field add fields to your model",
+    "name": "necrox87/yii2-custom-field",
+    "description": "yii2-custom-field add fields to your model",
     "keywords": ["yii2", "yii2", "application", "fields", "module", "dvizh"],
     "homepage": "https://github.com/dvizh/yii2-field",
     "type": "yii2-extension",
