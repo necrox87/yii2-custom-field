@@ -2,7 +2,7 @@
 use yii\helpers\Html;
 use yii\helpers\ArrayHelper;
 use yii\widgets\ActiveForm;
-use dvizh\field\models\Category;
+use necrox87\field\models\Category;
 ?>
 
 <div class="field-form">
