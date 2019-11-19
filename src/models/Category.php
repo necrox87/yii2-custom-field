@@ -1,5 +1,5 @@
 <?php
-namespace dvizh\field\models;
+namespace necrox87\field\models;
 
 use yii;
 use yii\helpers\Url;
