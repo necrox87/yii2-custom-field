@@ -4,7 +4,7 @@
 
 use yii\helpers\Html;
 use yii\widgets\Breadcrumbs;
-use dvizh\field\assets\Asset;
+use necrox87\field\assets\Asset;
 use common\widgets\Alert;
 
 Asset::register($this);
