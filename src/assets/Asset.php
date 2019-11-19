@@ -1,5 +1,5 @@
 <?php
-namespace dvizh\field\assets;
+namespace necrox87\field\assets;
 
 use yii\web\AssetBundle;
 
