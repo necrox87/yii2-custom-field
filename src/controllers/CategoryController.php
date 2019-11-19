@@ -1,5 +1,5 @@
 <?php
-namespace dvizh\field\controllers;
+namespace necrox87\field\controllers;
 
 use Yii;
 use dvizh\field\models\tools\CategorySearch;
