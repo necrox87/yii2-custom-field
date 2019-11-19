@@ -1,6 +1,6 @@
 <?php
 
-namespace dvizh\field\controllers;
+namespace necrox87\field\controllers;
 
 use yii;
 use dvizh\field\models\Field;
