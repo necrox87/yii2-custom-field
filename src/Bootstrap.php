@@ -1,5 +1,5 @@
 <?php
-namespace dvizh\field;
+namespace necrox87\field;
 
 use yii\base\BootstrapInterface;
 
