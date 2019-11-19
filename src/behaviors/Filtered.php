@@ -1,5 +1,5 @@
 <?php
-namespace dvizh\field\behaviors;
+namespace necrox87\field\behaviors;
 
 use yii;
 use yii\base\Behavior;
