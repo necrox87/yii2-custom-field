@@ -1,5 +1,5 @@
 <?php
-namespace dvizh\field\widgets;
+namespace necrox87\field\widgets;
 
 use yii\helpers\Html;
 use yii;
